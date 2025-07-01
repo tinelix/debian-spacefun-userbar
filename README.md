@@ -8,7 +8,7 @@ Debian Space Fun SVG/PNG artwork verison for forum userbars. The [original artwo
 #### **350x19**
 <img src="https://raw.githubusercontent.com/tinelix/debian-spacefun-userbar/refs/heads/main/png/350x19/spacefun-userbar.png" width="350" height="19"/>
 
-Note: It is recommended to look at this option at the [link](https://raw.githubusercontent.com/tinelix/debian-spacefun-userbar/refs/heads/main/png/350x19/spacefun-userbar.png).
+Note: It is recommended to look at this variant at the [link](https://raw.githubusercontent.com/tinelix/debian-spacefun-userbar/refs/heads/main/png/350x19/spacefun-userbar.png).
 
 ## Authors
 * Valessio S Brito
