@@ -1,6 +1,11 @@
 # Debian Spacefun (Userbar version)
 Debian Spacefun SVG/PNG artwork verison for forum userbars. The [original artwork](https://wiki.debian.org/DebianArt/Themes/SpaceFun) was created by Valessio S Brito and was used in Debian Squeeze from 2011 to 2014.
 
+## Preview
+
+![spacefun-userbar](https://github.com/user-attachments/assets/f17481a5-8259-4511-8e9d-3fcaf8bd87e5)
+
+
 ## Authors
 * Valessio S Brito
 * Dmitry Tretyakov (userbar)
